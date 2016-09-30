@@ -8,4 +8,3 @@ $new = 2;
 
 $newer = 3;
 
-$newerer = 4;
