@@ -6,5 +6,4 @@ $str = 'hello world';
 
 $new = 2;
 
-$newer = 3;
 
